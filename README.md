@@ -7,7 +7,7 @@ while leveraging the type safety and other advantages brought by generics.
 
 ### Installation
 
-`go get github.com/graydovee/gocache`
+`go get github.com/graydovee/gocache/v3`
 
 ### Feature
 - Type-safe caching with Go generics.
